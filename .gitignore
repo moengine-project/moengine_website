@@ -28,6 +28,8 @@
 .pub-cache/
 .pub/
 build/
+res/
+lib/generated/
 pubspec.lock
 
 # Android related
